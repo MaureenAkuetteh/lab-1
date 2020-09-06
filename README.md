@@ -11,3 +11,4 @@ This repository contains a single file, a script for gathering the basic configu
 Please refer to your lab instructions for definitive directions. In general, clone this repository to a new repository in your user space.
 
 ## Maureen Akuetteh
+    
